@@ -1,0 +1,27 @@
+Labels correspondence :
+-------------------nodeLabels-------------------
+0:["WorldCupRound"]
+1:["WorldCupRoundName"]
+2:["WorldCup"]
+3:["Game"]
+4:["Stadium"]
+5:["Team"]
+6:["Participant"]
+7:["Goal"]
+8:["TeamGroup"]
+9:["Player"]
+10:["Bibnum"]
+-------------------edgeLabels-------------------
+11:bibnum
+12:scored_by
+0:worldcup_round
+1:round
+2:stadium
+3:home
+4:away
+5:play_for
+6:awarded_to
+7:game
+8:participate_in
+9:group
+10:player
